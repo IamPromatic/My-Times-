@@ -3,6 +3,12 @@
   display: flex;
   background-color: white;
   border-bottom: 1px black solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: center;
+
 }
 
 .logo{
@@ -10,12 +16,15 @@
 }
 
 .title{
+font-family:Verdana;
 font-size: 14px;
 font-weight: bold;
 color:MediumAquamarine;
 }
 .link a {
+  font-family:Verdana;
   font-size: 14px;
   font-weight: bold;
   color:black;
+  
 }
