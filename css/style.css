@@ -1,13 +1,20 @@
-.container{
-  font-family: Verdana;
-  font-size: 14px;
-  font-weight: bold;
-  color:MediumAquamarine;
+
+.flex-container{
+  display: flex;
+  background-color: white;
 }
 
-.btn-nav{
-  color: black;
-  fontsize: 14px;
-  font-weight: bold;
+.logo{
 
+}
+
+.title{
+font-size: 14px;
+font-weight: bold;
+color:MediumAquamarine;
+}
+.link a {
+  font-size: 14px;
+  font-weight: bold;
+  color:black;
 }
