@@ -2,6 +2,7 @@
 .flex-container{
   display: flex;
   background-color: white;
+  border-bottom: 1px black solid;
 }
 
 .logo{
