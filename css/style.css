@@ -1,5 +1,13 @@
-Header p {
+.container{
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  color:MediumAquamarine;
+}
+
+.btn-nav{
+  color: black;
+  fontsize: 14px;
+  font-weight: bold;
+
 }
